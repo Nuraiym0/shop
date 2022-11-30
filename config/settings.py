@@ -78,7 +78,7 @@ WSGI_APPLICATION = 'config.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.sqlite3',
-        'NAME': 'django_shop',
+        'NAME': 'django_school',
         'USER': 'nuraiym',
         'PASSWORD' : '1',
         'HOST':'127.0.0.1',
